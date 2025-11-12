@@ -1,0 +1,4 @@
+radius_mean,texture_mean,perimeter_mean,area_mean,concavity_mean,concave_points_mean,radius_worst,perimeter_worst,area_worst,concave_points_worst
+12.0,15,75,450,0.05,0.02,13,90,600,0.03
+20.0,30,130,1400,0.3,0.12,23,160,1800,0.15
+14.5,18,95,700,0.1,0.05,16,110,850,0.07
