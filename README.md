@@ -1,4 +1,4 @@
-# 🏥 Hospital Breast Cancer Dashboard
+# Hospital Breast Cancer Dashboard
 
 A **Streamlit-based web dashboard** to predict whether a breast tumor is **Malignant** or **Benign** using a trained Random Forest model. Designed for hospital staff to quickly assess patient data individually or in batches.
 
