@@ -4,5 +4,5 @@ pillow
 tqdm
 kaggle
 gdown
-sklearn
+scikit-learn
 numpy
